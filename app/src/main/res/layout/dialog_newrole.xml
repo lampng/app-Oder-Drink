@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dp"
+    android:background="@drawable/while_background"
+    android:elevation="3dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border_top_radirus_16_primary_color"
+        android:gravity="center"
+        android:padding="12dp"
+        android:text="Revenue"
+        android:textAllCaps="true"
+        android:textColor="#fff"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="18dp">
+
+        <poly.edu.duan1_lampngpk02586.customizable.CustomSpinner
+            android:id="@+id/spinner"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@drawable/bg_spinner"
+            android:dropDownVerticalOffset="40dp"
+            android:textAlignment="center" />
+
+        <Button
+            android:id="@+id/btn_submit"
+            style="@style/btn_submit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="80dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="80dp"
+            android:text="Set role"
+            android:textSize="20dp" />
+    </LinearLayout>
+</LinearLayout>

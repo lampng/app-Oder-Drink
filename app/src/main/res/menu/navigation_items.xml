@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_cart"
+        android:icon="@drawable/ic_cart"
+        android:title="Cart" />
+    <item
+        android:id="@+id/nav_order"
+        android:icon="@drawable/ic_order_history"
+        android:title="Order history" />
+    <item
+        android:id="@+id/nav_product"
+        android:icon="@drawable/ic_products"
+        android:title="Product" />
+
+    <item
+        android:id="@+id/nav_Statistic"
+        android:title="Statistic">
+        <menu>
+            <item
+                android:id="@+id/nav_revenue_statistics"
+                android:icon="@drawable/ic_revenue"
+                android:title="Revenue statistics" />
+            <item
+                android:id="@+id/nav_revenue_top_10"
+                android:icon="@drawable/ic_top_10"
+                android:title="Statistics top 10" />
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/nav_manager"
+        android:title="Manager">
+        <menu>
+            <item
+                android:id="@+id/nav_drinks_manager"
+                android:icon="@drawable/ic_drinks"
+                android:title="Drink manager" />
+            <item
+                android:id="@+id/nav_cat_manager"
+                android:icon="@drawable/ic_cat_drink"
+                android:title="Category manager" />
+            <item
+                android:id="@+id/nav_staff_manager"
+                android:icon="@drawable/ic_user"
+                android:title="Staff manager" />
+
+        </menu>
+    </item>
+
+    <item android:title="Profile">
+        <menu>
+            <item
+                android:id="@+id/settings"
+                android:icon="@drawable/ic_settings"
+                android:title="Settings" />
+            <item
+                android:id="@+id/changepass"
+                android:icon="@drawable/ic_lock"
+                android:title="Change password" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+
+</menu>

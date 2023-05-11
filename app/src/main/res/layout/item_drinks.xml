@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_marginEnd="10dp"
+    android:layout_marginBottom="10dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/CardView"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:backgroundTint="#EFEFEF"
+            android:elevation="5dp"
+            android:padding="10dp"
+            android:translationZ="1dp"
+            app:cardCornerRadius="40dp">
+
+            <ImageView
+                android:id="@+id/img_drinks"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="110dp"
+            android:layout_below="@+id/CardView"
+            android:layout_marginTop="-50dp"
+            android:backgroundTint="#E6E6E6"
+            app:cardCornerRadius="20dp">
+
+            <LinearLayout
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="50dp"
+                android:layout_marginBottom="10dp"
+                android:orientation="vertical"
+                android:textAlignment="center">
+
+                <TextView
+                    android:id="@+id/tv_drinksName"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:autoSizeMaxTextSize="15dp"
+                    android:fontFamily="@font/sfprodisplaybold"
+                    android:text="Drinks"
+                    android:textAlignment="center" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        android:id="@+id/tv_price"
+                        android:layout_width="60dp"
+                        android:layout_height="20dp"
+                        android:layout_gravity="center_vertical"
+                        android:autoSizeMaxTextSize="17dp"
+                        android:fontFamily="@font/sfprodisplaybold"
+                        android:text="Price"
+                        android:textColor="#04B31B"
+                        android:textStyle="bold" />
+
+                    <Button
+                        android:id="@+id/btn_add"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:background="@drawable/ic_plus" />
+
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</RelativeLayout>

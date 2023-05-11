@@ -1,0 +1,53 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Duan1_lampngpk02586" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <style name="btn_submit" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:background">@drawable/button_submit</item>
+    </style>
+
+    <style name="btn_update" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:background">@drawable/button_update</item>
+    </style>
+
+    <style name="btn_remove" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:background">@drawable/button_cancel</item>
+    </style>
+
+    <style name="btn_cancel" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:background">@drawable/button_disable</item>
+    </style>
+
+    <style name="ed_form" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@drawable/input_form</item>
+        <item name="android:textColor">#000</item>
+        <item name="android:drawablePadding">12dp</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+</resources>

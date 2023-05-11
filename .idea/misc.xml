@@ -1,0 +1,108 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_account.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_bx_cart_2.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_bx_share_alt_1.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_cart.xml" value="0.108" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_group_1675.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_group_400.xml" value="0.1275" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_group_401.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_heart.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_home.xml" value="0.108" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_location_on_black_24dp.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_logout.xml" value="0.104" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_menu_black_24dp.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_products.xml" value="0.108" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_rectangle_344.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_search_black_24dp.xml" value="0.108" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_settings.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_short.xml" value="0.108" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_star_black_24dp.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/ic_sync.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/layout_bg.xml" value="0.108" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable-v24/search_bg.xml" value="0.108" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/bg_spinner.xml" value="0.1535" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/bg_spinner_up.xml" value="0.1535" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/border_top_radirus_16_primary_color.xml" value="0.1535" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/button_cancel.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/button_disable.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/button_submit.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/button_update.xml" value="0.2385" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/ed_shape.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/ed_shape_err.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/ic_add.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1565" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/ic_baseline_folder_24.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/ic_baseline_restore_from_trash_24.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/ic_name.xml" value="0.104" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/ic_pass.xml" value="0.104" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/ic_phone.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/image.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/input_form.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/navigation_selector.xml" value="0.1535" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/drawable/rouned.xml" value="0.182" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/activity_flash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/activity_forgot.xml" value="0.3078125" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/activity_login.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/activity_register.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/activity_reset_pw.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/dialog_add_cat.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/dialog_add_drinks.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/dialog_add_to_cart.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/dialog_cat.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/dialog_detail_drinksManager.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/dialog_detail_drinksmanager.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/dialog_edit_cat.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/dialog_edit_drinks.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/dialog_newpass.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/dialog_newrole.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/dialog_remove_cat.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/dialog_remove_drinks.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/dialog_revenue.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/dialog_staff_manager.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/fragment_cart.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/fragment_invoice.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/fragment_manager_cat.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/fragment_manager_drinks.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/fragment_products.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/fragment_settings.xml" value="0.1" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/fragment_staff_add.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/fragment_staff_manager.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/fragment_top_10.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/item_cart.xml" value="0.4" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/item_cart_order.xml" value="0.4" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/item_cat.xml" value="0.2287179487179487" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/item_catmanager.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/item_drinks.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/item_drinksmanager.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/item_order.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/item_products.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/item_role_spinner.xml" value="0.17421875" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/item_top_10.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/item_user.xml" value="0.4" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/manager_cat_ragment.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/layout/nav_header.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/menu/menu_item.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/pngia/OneDrive - zuckkk/Study/Semester_4/DuAn_1/duan1_lampngpk02586/app/src/main/res/menu/navigation_items.xml" value="0.23229166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1935185185185185" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
