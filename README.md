@@ -1,44 +1,28 @@
 # app-Oder-Drink
 
-Đăng nhập 
+- Bảo mật:
++ Đăng nhập 
++ Đăng ký 
++ Quên mật khẩu 
 
-Đăng ký 
+* Có 3 Role: Người dùng, nhân viên và quản trị
 
-Quên mật khẩu: Nhập username và sdt 
-
-Khi đăng nhập với role là người dùng: 
-
-người dùng có các chức năng như sau: 
-
+- người dùng: 
 + Đổi lại mật khẩu 
-
 + Chỉnh sửa hồ sơ người dùng 
-
 + Đăng xuất 
-
-+Tìm kiếm sản phẩm 
-
++ Tìm kiếm sản phẩm 
 + Thêm sản phẩm vào giỏ hàng 
-
 + Đặt hàng và chờ staff xác nhận 
-
 + Xem lịch sử đặt hàng 
-
 + Có thể hủy đơn hàng 
 
-Admin có các chức năng như sau: 
+- Nhân viên:
++ Xác nhận đơn hàng
++ Xem doanh thu
++ Xem các sản phẩm bán chạy
 
-Có toàn bộ mọi chức năng của người dùng và có thêm 
- Quản lý sản phẩm 
-
- 	+ Thêm / xóa / sửa sản phẩm 
-
-Quản lý Danh mục 
-
-+ Thêm / xóa / sửa danh mục 
-
-Quản  lý người dùng 
-
-+ Thêm / xóa / sửa người dùng 
-
-Xem thông kê doanh thu và thống kê  
+- Quản trị:
++ Quản lý sản phẩm
++ Quản lý danh mục
++ Quản lý người dùng
